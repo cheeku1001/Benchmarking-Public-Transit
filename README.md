@@ -7,3 +7,5 @@ Data used:
    Accessibility
    Mode share of all PT
 Then finalluy recommended the PT which can be firther added to these cities for better Urban Public Transit Planning  
+
+** In these data many data were not available for cities so they have been synthetically made(by extrapolation and analysis) using many research papers and other data**
